@@ -1,4 +1,4 @@
-https://img.shields.io/badge/</img src="React-61DAFB?style=flat&logo=React&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Daechul Github!&fontSize=90" />
 
 <!--
 **eocjf4701/eocjf4701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
