@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> &nbsp;&nbsp;    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> &nbsp;&nbsp;   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
-<h2>열심히, 즐겁게!/h2>
+<h2>열심히, 즐겁게!</h2>
 <!--
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=daechul)](https://solved.ac/{daechul})
