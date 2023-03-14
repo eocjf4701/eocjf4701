@@ -6,7 +6,7 @@
 
 ### Career
 
-- 2020.11 ~ : Finger Software Engineer
+- 2021.8 ~ : Finger Software Engineer
 
 <br>
 
