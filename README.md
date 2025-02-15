@@ -4,9 +4,7 @@
 📫 : eocjf4701@gmail.com  <br>
 📝 : https://velog.io/@eocjf4701
 
-### Career
-
-- 2021.8 ~ : Finger Software Engineer
+FullStack Developer
 
 <br>
 
